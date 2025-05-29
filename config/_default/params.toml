@@ -99,3 +99,6 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+
+[author]
+copyname = "Nwang827x"
