@@ -14,9 +14,10 @@ environment = "development"
 
 [production]
   baseURL = "https://anotheraverageguy.com/"
-
+  
 [github]
-  baseURL = "https://nathan827x.github.io/avg-blog/"
+  baseURL = "https://nathan827x.github.io/blog/"
+
 
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
